@@ -18,7 +18,7 @@ The **Aether Quanta Analyzer** mints AetherQuanta (AETH) coins and Void Image NF
 pkg update && pkg upgrade
 pkg install python python-pip git opencv-python sqlite wget
 pip install numpy
-git clone https://github.com/ESQET-Foundation/Aether-Quanta-Project.git
+git clone https://github.com/phi-factor/Aether-Quanta-Project.git
 cd Aether-Quanta-Project
 git clone https://github.com/marcoloco-crypto/GoldenGravity.git ../GoldenGravity
 cp ../GoldenGravity/energy_coherence_score.py .
